@@ -77,7 +77,7 @@
 	  enddo
 	sigma2=enerk2/npr-enerf**2
 	sigmae=dsqrt(enerk2/npr-enerf**2.)
-	Cv=sigma2/(3*np*(enerf*temp)**2)
+	Cv=sigma2/(np*(enerf*temp)**2)
 	
 	print*,'Cv:', Cv
 	print*, "Desviacion Estandar:", sigmae
