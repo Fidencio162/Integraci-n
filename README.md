@@ -10,4 +10,7 @@ Simulación Monte Carlo.
 
 * Para la simulación con un sistema de particulas Lennard-Jones proyecto_LJ.f se necesita el archivo inputs.dat.
 
+Para algoritmos que están escritos en Fortran 90 el compilador lo lee hasta la columna 132 y para Fortran 95 (con extensión .f)
+sólo hasta la columna 72.
+
 
