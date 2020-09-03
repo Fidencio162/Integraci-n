@@ -1,4 +1,5 @@
   ! Fidencio Pérez Hernández
+  ! Profesor: Dr. Néstor Valadez
 	! Abril, 2020
 	program MonteCarlo
      	implicit integer*8(i-n),real*8(a-h,o-z)
