@@ -13,4 +13,6 @@ Simulación Monte Carlo.
 Para algoritmos que están escritos en Fortran 90 el compilador lo lee hasta la columna 132 y para Fortran 95 (con extensión .f)
 sólo hasta la columna 72.
 
+El archivo bisección.m calcula la raíz de una función usando el método de bisección.
+
 
