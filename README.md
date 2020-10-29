@@ -16,3 +16,7 @@ sólo hasta la columna 72.
 El archivo bisección.m calcula la raíz de una función usando el método de bisección.
 
 
+
+
+
+e-mail: fisicafide27@gmail.com
