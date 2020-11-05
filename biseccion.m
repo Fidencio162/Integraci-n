@@ -1,5 +1,6 @@
+% Fidencio Pérez-Hernández
 clear all
-format short;
+format long;
 a=input('Introduzca el valor de a: ');
 b=input('Introduzca el valor de b: ');
 tol=input('Introduzca la tolerancia: ');
