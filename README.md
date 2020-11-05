@@ -15,6 +15,12 @@ sólo hasta la columna 72.
 
 El archivo bisección.m calcula la raíz de una función usando el método de bisección.
 
+Los archivos con extensión .sh son algoritmos en el lenguaje de Shell.
+Para darle permisos y ser usado como un ejecutable desde la terminal usar el siguiente comando:
+  chmod +x archivo.sh
+para ejecutar
+./archivo.sh
+
 
 
 
