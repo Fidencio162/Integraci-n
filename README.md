@@ -1,4 +1,4 @@
-# Integraci-n
+# Integración
 Metodo de Integración numérica
 * En el método del trapecio es necesario descargar los archivos Trapecio.f, tablaq.dat y gr_11.dat.
 
